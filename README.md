@@ -8,10 +8,10 @@ However, as per usual I saw this as an opportunity to create my own version and 
 
 ## Functionality
 
-Currently just scans the PC from a given start path and gets the 'Size' of the folder (not the actual size on disk).
-A basic user interface similar to File Explorer to navigate the folders and displays the size of each folder.
+- Currently just scans the PC from a given start path and gets the 'Size' of the folder (not the actual size on disk).
+- A basic user interface similar to File Explorer to navigate the folders and displays the size of each folder.
 
 ## Plans for the future
 
-I would like to make this have the ability to delete folders from the UI as I am currently copying the file path, investigating the folder myself before deleting.
-It would also be nice to have an AI assistant to query if the folder path is safe to delete or not along with where it is possibly from.
+- I would like to make this have the ability to delete folders from the UI as I am currently copying the file path, investigating the folder myself before deleting.
+- It would also be nice to have an AI assistant to query if the folder path is safe to delete or not along with where it is possibly from.
